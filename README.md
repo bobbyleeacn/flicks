@@ -29,9 +29,9 @@ Time spent: **10+** hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: (coming)
+Here's a walkthrough of implemented user stories: 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bobbyleeacn/flicks/blob/master/img/flixie_mobile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
