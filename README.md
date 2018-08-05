@@ -39,4 +39,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 1) Flatlist onEndReached prop triggers twice on iOS because of the 'bounce' effect. https://github.com/facebook/react-native/issues/14015  Fix is work in progress.
 
-2) HomeScreen component should be separated into own file. 
+2) App Class and HomeScreen class need to be separated into different files. 
+
+3) 'HomeScreen' should be broken up into 'MovieList' component which will be reusable for both NowPlayingScreen and TopRatedScreen. The fetchData() method needs to be updated with an additional parameter to access different API endpoints to accomodate 'Now Playing' vs 'Top Rated' fetches. 
